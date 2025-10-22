@@ -1,6 +1,0 @@
-@AppBuenaAventura_HostAddress = http://localhost:5197
-
-GET {{AppBuenaAventura_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
